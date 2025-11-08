@@ -1,3 +1,4 @@
+## TR:
 # Veri Bilimi, Machine Learning ve Derin Öğrenme Ders Notlarım
 
 Bu repository, Veri Bilimi (Data Science), Makine Öğrenmesi (Machine Learning) ve Derin Öğrenme (Deep Learning) alanlarındaki kişisel öğrenme serüvenim boyunca tuttuğum Jupyter Notebook formatındaki ders notlarımı içermektedir.
@@ -53,6 +54,8 @@ Bu not defterlerini çalıştırmak isterseniz, ilgili veri setini Kaggle'dan in
 ---
 ---
 
+
+## ENG:
 # My Data Science and Deep Learning Study Notes
 
 This repository contains my personal study notes in Jupyter Notebook format, which I have taken throughout my learning journey in Data Science, Machine Learning, and Deep Learning.
